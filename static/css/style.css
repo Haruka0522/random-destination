@@ -1,0 +1,29 @@
+h1 {
+	background-color: dimgray;
+	color: white;
+	padding: 0.5em;
+	margin: 0px;
+}
+
+.navbar {
+	margin: 0;
+	background-color: #636363;
+}
+
+.container-fluid {
+	padding: 0;
+	margin: 56px 0px 0px 0px;
+}
+
+.main {
+	position: sticky;
+	top: 56px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.map {
+	margin: 10px;
+	width: 95%;
+	height: 85%;
+}
