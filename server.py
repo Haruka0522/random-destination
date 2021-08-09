@@ -11,7 +11,6 @@ import csv
 import json
 import random
 
-from log import logger
 from models import CityModel
 
 
